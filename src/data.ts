@@ -51,10 +51,10 @@ export const degrees = [
 // Add the user's replacement photography to public/images and update paths here.
 export const images = {
   president: '/images/president.avif', // The president portrait is the one reference image permitted for reuse.
-  home: '',
-  seniorHigh: '',
-  college: '',
-  learning: '',
-  community: '',
-  campus: '',
+  home: '/images/campus.jpg',
+  seniorHigh: '/images/senior-high.jpg',
+  college: '/images/college.jpg',
+  learning: '/images/learning.jpg',
+  community: '/images/community.jpg',
+  campus: '/images/home-hero.jpg',
 }
